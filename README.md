@@ -9,8 +9,8 @@ For the quickest usage, simply run `./smashandgrab`. This will run an extensive 
 Some other usages are as follows:
 
 Flags:
--s: this flag followed by the name of the scope (predefined or user defined) will run ./smashandgrab only on specific 
--f : this flag does a fast grab
--l : this flag will be as loud as possible and run in parallel
--q: this flag attempts to run as quiet as possible
--u: this flag followed by a string or file, targets only the users that are listed
+-s: this flag followed by the name of the scope (predefined or user defined) will run ./smashandgrab only on specific<br>
+-f : this flag does a fast grab<br>
+-l : this flag will be as loud as possible and run in parallel  
+-q: this flag attempts to run as quiet as possible<br>
+-u: this flag followed by a string or file, targets only the users that are listed<br>
