@@ -8,7 +8,7 @@ For the quickest usage, simply run `./smashandgrab`. This will run an extensive 
 `./smashandgrab`
 Some other usages are as follows:
 
-Flags:
+Flags:  
 -s: this flag followed by the name of the scope (predefined or user defined) will run ./smashandgrab only on specific<br>
 -f : this flag does a fast grab<br>
 -l : this flag will be as loud as possible and run in parallel  
